@@ -23,8 +23,4 @@ Users can create or join multiple chat rooms, send/receive messages in real time
 - Socket.io  
 - HTML, CSS, JavaScript  
 
-## 🤝 Contributing  
-Contributions are always welcome! Feel free to fork the repo and submit pull requests. Please follow best coding practices and add tests where appropriate.
 
-## 📄 License  
-This project is licensed under the MIT License.
